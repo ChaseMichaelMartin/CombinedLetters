@@ -1,6 +1,6 @@
- Time Estimated : 2 hours 
+ **Time Estimated : 2 hours**
  
- Actual Hours : 4 hours 
+ **Actual Hours : 4 hours** 
 
 
 
@@ -9,7 +9,7 @@ This project's purpose is to save on mailing fees.
 For example, if a student has both an admission letter and a scholarship letter, then we can combine the two letters, 
 and mail them into one envelop thus saving postage. 
 
-- This Console App has the following features:
+**This Console App has the following features:**
 
 1. Move all recieved files from the 'Input' folder to the 'Archive' folder.
 
@@ -21,7 +21,7 @@ and mail them into one envelop thus saving postage.
    ('Output')
 
 
-- How To Test/Verifiy: **Please mke sure you've updated the file paths to yoursaccordingly.**
+**How To Test/Verifiy:** *!Please mke sure you've updated the file paths to yours accordingly.!*
 
 1. Build Application
 
@@ -35,14 +35,14 @@ and mail them into one envelop thus saving postage.
 5. View the 'Archive' folder to view the 'Archive.txt' file containing all recieved file's content.
 
 
- Assumptions: 
+ **Assumptions:** 
   
   - I intitially attempted to use some old code I have from my college ConsoleApp projects. I tried using my StreamWriter code w/
   a list of letters collected from each department that combineTwoLetters() based on the conditions that would then generate a Student 
   Object. This Student would have a unique ID to list in the dated Report.txt & letter.Count() to tell if student has both a scholarship & admission form.
   
   
- Reason for not using interface & implementation class / Problems: 
+ **Reason for not using interface & implementation class / Problems:**
  
  - I really wanted to use my StreamWriter code because I read you were allowed to use any string for inputFile content &
    there was no need to consider periperal requirements so I wanted to read  text and write text into certain directories,
@@ -57,10 +57,10 @@ and mail them into one envelop thus saving postage.
  
  - I tried creating a list of files that take in student field(s) &/or manipulate Student.letter .Counts() to verify.
  
- - I have used Arrays, Lists, HashMaps with db tabels, objects & in Unit Tests but not with txt or ConsoleApps. I bet if I had a little help this would've been a breeze! 
+ - I have used Arrays, Lists, HashMaps with db tabels, objects & in Unit Tests but not with txt or ConsoleApps. I bet if I had a little help this would've been a        breeze! 
  
  
- Highlights: 
+ **Highlights:** 
  
  - I just realized that there's probably a way to use the Archive folder to check whether or not the program was ran the previous day, I will try to create 
    a test tomorrow that checks for that while awaiting your reponse!  
