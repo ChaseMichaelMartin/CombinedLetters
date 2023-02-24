@@ -64,7 +64,7 @@ and mail them into one envelop thus saving postage.
    a test tomorrow that checks for that while awaiting your reponse!  
  
  
- I would be more than happy to improve on this tomorrow( Friday, Feb. 24 ) to improve on this.
+ I would be more than happy to improve on this tomorrow. ( Friday, Feb. 24 )
  
  I am eager to hear back, thank you so much for your time!
   
