@@ -1,0 +1,6 @@
+01/25/2022 Report
+-------------------
+Number of Combined Letters: 2
+ID-00000987
+ID-00000980
+
