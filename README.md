@@ -27,12 +27,12 @@ and mail them into one envelop thus saving postage.
 
 2. Press 'Start' button in IDE.
 
-3. View the 'Archive' folder to view the 'Archive.txt' file containing all recieved file's content.
+3. View the 'CombinedLetters.txt' folder to see each letter's content combined as one.
 
-4. View the 'CombinedLetters.txt' folder to see each letter's content combined as one.
-
-5. View the 'Report.txt' file in the 'Output' folder, NOTICE only two cobinedLetters & two unique IDs listed. 
+4. View the 'Report.txt' file in the 'Output' folder, NOTICE only two cobinedLetters & two unique IDs listed. 
    **(inputFile 5 and 6's student ID's don't match, therefore there is no student2 ( no 3rd student ID to list in Report.txt ))**
+   
+5. View the 'Archive' folder to view the 'Archive.txt' file containing all recieved file's content.
 
 
  Assumptions: 
@@ -40,6 +40,7 @@ and mail them into one envelop thus saving postage.
   - I intitially attempted to use some old code I have from my college ConsoleApp projects. I tried using my StreamWriter code w/
   a list of letters collected from each department that combineTwoLetters() based on the conditions that would then generate a Student 
   Object. This Student would have a unique ID to list in the dated Report.txt & letter.Count() to tell if student has both a scholarship & admission form.
+  
   
  Reason for not using interface & implementation class / Problems: 
  
@@ -57,6 +58,7 @@ and mail them into one envelop thus saving postage.
  - I tried creating a list of files that take in student field(s) &/or manipulate Student.letter .Counts() to verify.
  
  - I have used Arrays, Lists, HashMaps with db tabels, objects & in Unit Tests but not with txt or ConsoleApps. I bet if I had a little help this would've been a breeze! 
+ 
  
  Highlights: 
  
