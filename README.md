@@ -21,7 +21,7 @@ and mail them into one envelop thus saving postage.
    ('Output')
 
 
-- How To Test/Verifiy:
+- How To Test/Verifiy: **Please mke sure you've updated the file paths to yoursaccordingly.**
 
 1. Build Application
 
